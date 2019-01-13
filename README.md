@@ -4,7 +4,7 @@ A wrapper for budgetSMS for use with NodeJS.
 ## Setup
 
 ```bash
-npm i
+npm i budgetsms-node
 ```
 
 ## How to use
